@@ -1,11 +1,11 @@
 [Setup]
 AppName=Quantis Audio Player
-AppVersion=1.0
+AppVersion=1.3.0
 AppPublisher=Lucid Audio
 DefaultDirName={autopf}\Quantis
 DefaultGroupName=Quantis
 OutputDir=C:\Users\simon\CustomAudioCodec\InstallerOutput
-OutputBaseFilename=Quantis_Setup_v1.2.1
+OutputBaseFilename=Quantis_Setup_v1.3.0
 Compression=lzma
 SolidCompression=yes
 ChangesAssociations=yes
